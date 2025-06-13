@@ -1,12 +1,12 @@
 # -DECISION-TREE-IMPLEMENTATION
-COMPANY: CODTECH IT SOLUTIONS
-NAME: GUNNA PAVAN
-INTERN ID: CT04DN1757
-DOMAIN : MACHINE LEARNING
-DURATION : 4 WEEKS
-MENTOR : NEELA SANTOSH
-PLATFROM : VS CODE
-REQUIREMENTS : PANDAS,SCIKIT-LEARN
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: GUNNA PAVAN
+*INTERN ID*: CT04DN1757
+*DOMAIN* : MACHINE LEARNING
+*DURATION* : 4 WEEKS
+*MENTOR* : NEELA SANTOSH
+*PLATFROM* : VS CODE
+*REQUIREMENTS* : PANDAS,SCIKIT-LEARN
 A Decision Tree is a supervised machine learning algorithm used for both classification and regression tasks. It works by splitting the data into branches based on feature values, ultimately leading to a decision or prediction at the leaf nodes.
 What Is a Decision Tree?
 Imagine making decisions by asking a series of yes/no or if/else questions — that’s how a decision tree works.
