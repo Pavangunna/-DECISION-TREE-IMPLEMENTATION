@@ -32,3 +32,5 @@ Disadvantages:
 Prone to overfitting (especially deep trees).
 Small changes in data can lead to different trees.
 Less accurate than ensemble methods like Random Forests.
+*OUTPUT*
+![Image](https://github.com/user-attachments/assets/6bdb9102-4bf8-4230-bf18-c4998b7fa89e)
